@@ -4,7 +4,7 @@ int produit(int a, int b){
 } 
 int main() {
     int x,y;
-    printf("projet colaboratif-main\n");
+    printf("projet collaboratif corrige");
     printf("donner le premier nombre:");
     scanf("%d",&x);
     printf("donner le deuxieme nombre:");
